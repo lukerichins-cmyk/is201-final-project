@@ -116,7 +116,7 @@ a {
     padding: 4rem 1.5rem;
     background:
         linear-gradient(115deg, rgba(8, 31, 46, 0.78), rgba(15, 108, 116, 0.45)),
-        url("../images/North of Spain.webp") center/cover no-repeat;
+        url("../images/northofspain.webp") center/cover no-repeat;
 }
 
 .hero-overlay {
