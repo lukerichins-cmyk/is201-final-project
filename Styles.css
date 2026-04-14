@@ -1,0 +1,81 @@
+h1 {
+    color: rgb(3, 3, 3); 
+    font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.InternationalTravel {
+    background-color: teal;
+    color:  ivory; 
+    font-family: 'times new roman', serif;
+}
+body {
+    background-color: ivory
+}
+.France {
+    background-color: teal;
+    color: ivory; 
+    font-family: 'tines new roman', serif;
+    border: 1px solid white;
+}
+.header {
+    background-color: ivory;
+    color: teal;
+}
+.Spain {
+    color: teal;
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+.video {
+    display: block;
+    margin: 0 auto;
+    video-align: center;
+}
+#menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+#menu li {
+    margin-right: 15px;
+}
+#menu a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#menu a:hover {
+    color: blue;
+}
+.tableauheader {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}   
+.tableauPlaceholder {
+    width: 75%;
+    margin: 10 auto;
+}
+h2 {
+    text-align: center;
+}
+  .header {
+    background-color: ivory;
+    color: black;  
+    text-align: center;
+  }
